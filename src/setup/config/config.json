@@ -1,0 +1,41 @@
+{
+  "test": {
+    "PORT": 3000,
+    "MONGODB_URI": "mongodb+srv://user:password@hosting/DB",
+    "JWT_SECRET": "SecretKey",
+    "JWT_AUDIENCE": "xxx-client",
+    "JWT_ISSUER": "xxx-server",
+    "CLIENT_ORIGIN": "http://localhost:8080",
+    "CLIENT_LOGIN": "http://localhost:8080/login",
+    "PUBLIC_URL": "http://localhost:3000",
+    "GRAPHQL_ENDPOINT": "/graphql",
+    "GOOGLE_CLIENTID": "345893274589234795.apps.googleusercontent.com",
+    "GOOGLE_CLIENTSECRET": "1zciE-ısodfuıso-3434"
+  },
+  "development": {
+    "PORT": 3000,
+    "MONGODB_URI": "mongodb+srv://user:password@hosting/DB",
+    "JWT_SECRET": "SecretKey",
+    "JWT_AUDIENCE": "xxx-client",
+    "JWT_ISSUER": "xxx-server",
+    "CLIENT_ORIGIN": "http://localhost:8080",
+    "CLIENT_LOGIN": "http://localhost:8080/login",
+    "PUBLIC_URL": "http://localhost:3000",
+    "GRAPHQL_ENDPOINT": "/graphql",
+    "GOOGLE_CLIENTID": "345893274589234795.apps.googleusercontent.com",
+    "GOOGLE_CLIENTSECRET": "1zciE-ısodfuıso-3434"
+  },
+  "production": {
+    "PORT": 3000,
+    "MONGODB_URI": "mongodb+srv://user:password@hosting/DB",
+    "JWT_SECRET": "SecretKey",
+    "JWT_AUDIENCE": "xxx-client",
+    "JWT_ISSUER": "xxx-server",
+    "CLIENT_ORIGIN": "http://localhost:8080",
+    "CLIENT_LOGIN": "http://localhost:8080/login",
+    "PUBLIC_URL": "http://localhost:3000",
+    "GRAPHQL_ENDPOINT": "/graphql",
+    "GOOGLE_CLIENTID": "345893274589234795.apps.googleusercontent.com",
+    "GOOGLE_CLIENTSECRET": "1zciE-ısodfuıso-3434"
+  }
+}
